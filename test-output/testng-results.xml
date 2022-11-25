@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-25T18:10:15 EET" name="Default suite" finished-at="2022-11-25T18:10:28 EET" duration-ms="13010">
+    <groups>
+    </groups>
+    <test started-at="2022-11-25T18:10:15 EET" name="Default test" finished-at="2022-11-25T18:10:28 EET" duration-ms="13010">
+      <class name="smartbuy1.smar_buy">
+        <test-method is-config="true" signature="log_in()[pri:0, instance:smartbuy1.smar_buy@31fa1761]" started-at="2022-11-25T18:10:15 EET" name="log_in" finished-at="2022-11-25T18:10:24 EET" duration-ms="8420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_in -->
+        <test-method signature="Test_price_of_added()[pri:0, instance:smartbuy1.smar_buy@31fa1761]" started-at="2022-11-25T18:10:24 EET" name="Test_price_of_added" finished-at="2022-11-25T18:10:24 EET" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_price_of_added -->
+        <test-method signature="add_Element_labtop()[pri:0, instance:smartbuy1.smar_buy@31fa1761]" started-at="2022-11-25T18:10:24 EET" name="add_Element_labtop" finished-at="2022-11-25T18:10:28 EET" duration-ms="4518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_Element_labtop -->
+      </class> <!-- smartbuy1.smar_buy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
